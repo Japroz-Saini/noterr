@@ -7,7 +7,7 @@ A command line application to store all of your notes in a neat and clean manner
 You can install noterr through pip with the following command:
 
 ```bash
-pip install noterr==1.0.0
+pip install noterr
 ```
 
 Also, you can also install noterr through curl
